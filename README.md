@@ -16,6 +16,8 @@ This is a solution to the [Knights Travails](https://www.theodinproject.com/less
 
 ## Overview
 
+*** Please look at the src folder for the code and index on pages folder for example
+
 ### The challenge
 
 Users should be able to:
